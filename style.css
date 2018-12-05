@@ -8,8 +8,8 @@ html {
 }
 
 body {
-    margin: 5px auto;
-  padding: 30px 35px;
+    margin: 0 auto;
+    padding: 5px 5px;
   font-family: "Montserrat", "Segoe UI", Roboto, "Helvetica Neue", Arial,
     sans-serif;
   font-size: 1rem;
