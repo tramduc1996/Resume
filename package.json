@@ -1,0 +1,21 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Personal Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tramduc1996/Resume.git"
+  },
+  "author": "Daniel Tram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tramduc1996/Resume/issues"
+  },
+  "homepage": "https://github.com/tramduc1996/Resume#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
