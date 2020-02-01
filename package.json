@@ -4,6 +4,7 @@
   "description": "Personal Resume",
   "main": "index.js",
   "scripts": {
+    "start": "react-scripts start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,6 +17,8 @@
     "url": "https://github.com/tramduc1996/Resume/issues"
   },
   "homepage": "https://github.com/tramduc1996/Resume#readme",
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  },
   "devDependencies": {}
 }
