@@ -17,7 +17,7 @@ const PersonalLinks = () => {
     <div key={item.Id}>
       <p className="github"> </p>
       <label>
-        <b>{item.Name}</b>
+        <b>{item.Name}: </b>
       </label>
       <a href={item.Url} target="_blank" rel="noopener noreferrer" >
         {item.Url}

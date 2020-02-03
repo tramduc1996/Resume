@@ -43,8 +43,8 @@ const resumeInfor = {
     {
       Id: 4,
       Name: "Other Technical",
-      ListItems: `"Visual Studio Code, Visual Studio, Git, Git-Hub, Team Foundation Server (TFS), Chrome Dev Tools, React/Redux Dev Tools,
-       Google Maps, Google, Microsoft Office, Npm JS, Reactstrap, Trello Board."`
+      ListItems: "Visual Studio Code, Visual Studio, Git, Git-Hub, Team Foundation Server (TFS), Chrome Dev Tools, React/Redux Dev Tools,"+
+       "Google Maps, Google, Microsoft Office, Npm JS, Reactstrap, Trello Board."
     }
   ],
   experiences: [
